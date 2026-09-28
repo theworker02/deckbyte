@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/deckbyte",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deck URLs and byte query parts with stable normalization.",
+  "bin": {
+    "deckbyte": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/deckbyte.git"
+  },
+  "homepage": "https://theworker02.github.io/deckbyte/",
+  "keywords": [
+    "deck",
+    "byte",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
